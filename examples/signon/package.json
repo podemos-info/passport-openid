@@ -2,7 +2,7 @@
   "name": "passport-openid-examples-signon",
   "version": "0.0.0",
   "dependencies": {
-    "express": ">= 0.0.0",
+    "express": "3.x",
     "ejs": ">= 0.0.0",
     "passport": ">= 0.0.0",
     "passport-openid": ">= 0.0.0"
